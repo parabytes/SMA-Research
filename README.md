@@ -12,3 +12,7 @@ The sentiment of tweets for the inorganic accounts is mostly neutral to positive
 This work demonstrates that there is evidence of misinformation being spread by the inorganic accounts, and the links that are posted by the inorganic accounts are mostly self-referential sources, which are presented as facts, but lack verification by other trusted sources.
 
 More research is needed to understand the role of inorganic accounts in spreading misinformation in regards to COVID-19 and its societal ramifications. Moving forward, an important research question to consider should include the relationship between COVID-19 misinformation being spread by inorganic accounts and their link to positive cases.
+
+# Note
+
+There are more files assosciated with the research. These files are simply too large to commit. The entire research generated 4.9GB of data. In order to save space only select files were committed. If you need all the files for verification so it can be incorporated in your own research, please contact me at pahuja@jh.edu and I will be happy to make the entire research available to you via Google drive. Alternatively, you may look at another repo that I forked from the researchers at University of South California. This repo is titled COVID-19 Tweets. 
